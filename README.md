@@ -1,9 +1,12 @@
-# backend-python-flask
+<img src="https://deploymonk.com/images/brand.png" alt="Deploy Monk" height="60">
 
-Repository for the the following guide:
+A super simple Python Flask application.
 
-**Flask**
+## Getting started
 
-Deploy your applications build using Flask framework easily using Deploy Monk.
+- Clone this repository: `git clone git@github.com:deploymonk/backend-python-flask.git`
+- Install dependencies: `pip install -r requirements.txt`
+- Start server: `python app.py`
 
-Link: [explore.deploymonk.com/docs/backend-python-flask](https://explore.deploymonk.com/docs/backend-python-flask)
+## Deploy
+Deploy your own clone of this repository using Deploy Monk. Head to [explore.deploymonk.com/docs/backend-python-flask](https://explore.deploymonk.com/docs/backend-python-flask) to learn more!
