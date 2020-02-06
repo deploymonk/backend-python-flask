@@ -1,4 +1,4 @@
-<img src="https://deploymonk.com/images/brand.png" alt="Deploy Monk" height="60">
+<img src="https://deploymonk.com/images/brand.png?v0.1" alt="Deploy Monk" height="60">
 
 A super simple Python Flask application.
 
